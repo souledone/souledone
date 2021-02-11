@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on devoloping this website.
+- 🔭 I’m currently working on devoloping the website (https://learncp.online).
 - 🌱 I’m currently learning dbms.
 - 👯 I’m looking to collaborate on improving this website.
 - 📫 How to reach me: please mail me ananthulaakshith5@gmail.com
