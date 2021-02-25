@@ -3,7 +3,7 @@
 <!--
 **akshith6212/akshith6212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+This is Akshith from NIT Calicut,
 
 - 🔭 I’m currently working on devoloping the website https://learncp.online.
 - 🌱 I’m currently learning dbms.
