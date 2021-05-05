@@ -5,7 +5,7 @@
 -->
 This is Akshith from NIT Calicut,
 
-- 🔭 I’m currently working on devoloping the website https://learncp.online.
+- 🔭 I’m currently working on developing the website https://learncp.online.
 - 🌱 I’m currently learning dbms.
 - 👯 I’m looking to collaborate on improving this website.
 - 📫 How to reach me: please mail me ananthulaakshith5@gmail.com
